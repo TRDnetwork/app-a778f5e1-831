@@ -1,0 +1,15 @@
+node_modules
+.env
+.git
+.gitignore
+*.md
+tests/
+dist/
+coverage/
+.vscode/
+.idea/
+*.log
+Dockerfile
+docker-compose.yml
+nginx.conf
+README-deploy.md
